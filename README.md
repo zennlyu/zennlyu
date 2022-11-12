@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @zennlyu
-- 👀 I’m interested in front-end 
-- 🌱 I’m currently learning computer science
+- 👋 Ciao~ @zennlyu here.
+- 👀 I’m interested in data visualization and machine learning.
+- 🌱 I’m currently working as front-end developer skilled at React, Flutter.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌊 Government-registered volurnteer on environment protection. Long been looking to the solution of large-scale cleanup over ocean pollution (like [Ocean Cleanup](https://theoceancleanup.com/)) 
+- 📫 How to reach me -  [twitter: zennlyu](https://twitter.com/zennryu616) or [telegram: s081z](https://t.me/s081z)
 
-<!---
-zennlyu/zennlyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
