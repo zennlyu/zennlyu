@@ -1,6 +1,5 @@
 - 👋 Ciao~ @zennlyu here.
-- 👀 I’m interested in FR engineering, visualization and computational communication.
+- 👀 I’m interested in FR engineering and cross-platform solutions.
 - 🌱 I’m currently working as full-stack developer skilled at react, flutter and node.js
 - 💞️ I’m looking to collaborate on projects alike above.
-- 🌊 Government-registered volurnteer on environment protection. Long been looking to the solution of large-scale cleanup over ocean pollution
-- 📫 How to reach me - [twitter: zennlyu](https://twitter.com/zennryu616)
+- 📫 How to reach me - [linkedin: zhenliu277](https://www.linkedin.com/in/zhenliu277)
