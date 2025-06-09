@@ -1,5 +1,5 @@
 - 👋 Ciao~ @zennlyu here.
-- 🧑‍💻 Software Engineer at HelloTalk,
-- skilled at react, flutter and node.js
-- interested in RAG-AI pipeline, Machine Learning n FR engineering
+- 🧑‍💻 Software Engineer at HelloTalk
+- _skilled at React, Flutter and Node.js
+- _interested in RAG-AI pipeline, Machine Learning, Full-Stack engineering
 - 📫 How to reach me - [linkedin: zhenliu277](https://www.linkedin.com/in/zhenliu277)
