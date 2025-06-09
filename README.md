@@ -2,4 +2,4 @@
 - 🧑‍💻 Software Engineer at HelloTalk
 - :skilled at React, Flutter and Node.js
 - :interested in RAG-AI pipeline, Machine Learning, Full-Stack engineering
-- 📫 How to reach me - [linkedin](https://www.linkedin.com/in/zhenliu277) - [twitter]([https://www.linkedin.com/in/zhenliu277](https://x.com/zennryu616)) 
+- 📫 How to reach me - [linkedin](https://www.linkedin.com/in/zhenliu277) - [twitter](https://x.com/zennryu616)) 
