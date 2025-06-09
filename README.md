@@ -1,5 +1,3 @@
 - 👋 Ciao~ @zennlyu here.
-- 👀 I’m interested in FR engineering and cross-platform solutions.
-- 🌱 I’m currently working as full-stack developer skilled at react, flutter and node.js
-- 💞️ I’m looking to collaborate on projects alike above.
+- 👀 Software Engineer at HelloTalk, skilled at react, flutter and node.js, interested in RAG pipeline for AI and FR engineering.
 - 📫 How to reach me - [linkedin: zhenliu277](https://www.linkedin.com/in/zhenliu277)
